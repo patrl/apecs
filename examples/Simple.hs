@@ -1,6 +1,7 @@
 {-# LANGUAGE DataKinds, FlexibleInstances, ScopedTypeVariables, TypeFamilies, MultiParamTypeClasses, TemplateHaskell #-}
 
 import Apecs
+import Apecs.Reactive
 import Control.Monad
 import Apecs.Util
 import Linear (V2 (..))
